@@ -1,0 +1,12 @@
+bin
+pyvenv.cfg
+.DS_Store
+*/.DS_Store
+*/__pycache__*
+__pycache__*
+etc*
+include*
+lib*
+lib64*
+share*
+GitHub*
